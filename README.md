@@ -1,7 +1,3 @@
-<a href="https://facebook.com" target="_blank">
-  <img src="https://githubusercontent.com" alt="Facebook" width="40" height="40" />
-</a>
-
 
 <h1 align="center">Hi 👋, I'm Shoeb Ahmed</h1>
 <h3 align="center">Passionate Web Designer Expert Creating Modern,Responsive Websites with clean code . Helping Businesses Grow through Professional Digital Solutions.</h3>
